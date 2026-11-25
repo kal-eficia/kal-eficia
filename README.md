@@ -6,7 +6,7 @@ The mission: **raise a generation of problem solvers who can build and thrive in
 
 ### Open-source tools for teachers
 
-| | |
+| Project | What it does |
 |---|---|
 | **[pattern-guard](https://github.com/kal-eficia/pattern-guard)** | Finds guessable answer patterns in quizzes (runs, A-B-C-D staircases, alternation) and fixes them. Python CLI, no dependencies |
 | **[recall-engine](https://github.com/kal-eficia/recall-engine)** | Spaced-retrieval lesson starters per student, plus six-week progress reviews, from a question bank and an attempts log |
@@ -15,7 +15,7 @@ The mission: **raise a generation of problem solvers who can build and thrive in
 
 ### Things I've shipped
 
-| | |
+| Project | What it is |
 |---|---|
 | **[Lock In](https://github.com/kal-eficia/lock-in)** | A revision game for IGCSE Computer Science and ICT: 914 terms on a motherboard that lights up as you learn and corrupts as you forget. React, TypeScript, offline PWA, Lighthouse 100 accessibility |
 | **[Excelia Live](https://github.com/kal-eficia/excelia-live)** | A live class dashboard for remote lessons: every student's answer on the teacher's board within a second. Node, SQLite, Server-Sent Events |
