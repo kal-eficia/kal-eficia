@@ -12,7 +12,7 @@ The mission: **raise a generation of problem solvers who can build and thrive in
 | **[recall-engine](https://github.com/kal-eficia/recall-engine)** | Spaced-retrieval lesson starters per student, plus six-week progress reviews, from a question bank and an attempts log |
 | **[lesson-page-kit](https://github.com/kal-eficia/lesson-page-kit)** | Write a lesson as JSON, get a calm interactive student page with a summary after every page. [Live demo](https://kal-eficia.github.io/lesson-page-kit/) |
 | **[mark-point-checker](https://github.com/kal-eficia/mark-point-checker)** | Marks short written answers against exam marking points: "you have got X, still to add Y". No AI model, Python and JavaScript. [Live demo](https://kal-eficia.github.io/mark-point-checker/) |
-| **[ai-teaching-skills](https://github.com/kal-eficia/ai-teaching-skills)** | 56 agent skills for teachers and tutors: planning, retrieval, assessment, feedback, inclusion, parents and AI. Install with `npx skills add kal-eficia/ai-teaching-skills` |
+| **[ai-teaching-skills](https://github.com/kal-eficia/ai-teaching-skills)** | 56 agent skills for teachers and tutors: planning, retrieval, assessment, feedback, inclusion, parents and AI. Copy-and-paste versions for any AI at [kal-eficia.github.io/ai-teaching-skills](https://kal-eficia.github.io/ai-teaching-skills/) |
 
 ### For Muslim homes and creators
 
